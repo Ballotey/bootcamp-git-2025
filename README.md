@@ -7,8 +7,11 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 **Name:** Benardicta Allotey
 
+
 **Hobbies:**
-BA: reading, watching anime, cooking
+BA: reading, watching anime, cooking; Ryan's hobbies here (aka walking); Micah's hobbies: Brazilian jiu jitsu
+
+
 ## Section 1: Your First Commit
 
 1. Fork this Repo
@@ -29,7 +32,7 @@ Use one person's fork of this repo to complete the following.
 
 Partner A: use your repo
 Partner B: use Partner A's repo
-
+ 
 
 1. Partner A: add Partner B to your repo (under Settings)
 2. Partner B: clone Partner A's repo to your machine
