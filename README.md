@@ -8,7 +8,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 **Name:** Benardicta Allotey
 
 **Hobbies:**
-
+BA: reading, watching anime, cooking
 ## Section 1: Your First Commit
 
 1. Fork this Repo
