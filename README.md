@@ -6,8 +6,9 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 (see instructions)
 
 **Name:** Benardicta Allotey
+Ryan Li
 
-**Hobbies:**
+**Hobbies:** Ryan's hobbies here (aka walking)
 
 ## Section 1: Your First Commit
 
