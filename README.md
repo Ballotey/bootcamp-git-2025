@@ -6,10 +6,12 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 (see instructions)
 
 **Name:** Benardicta Allotey
-Ryan Li
-Micah Latif-Prahl
-**Hobbies:** Ryan's hobbies here (aka walking)
-**Hobbies:** Micah's hobbies: Brazilian jiu jitsu
+
+
+**Hobbies:**
+BA: reading, watching anime, cooking; Ryan's hobbies here (aka walking); Micah's hobbies: Brazilian jiu jitsu
+
+
 ## Section 1: Your First Commit
 
 1. Fork this Repo
